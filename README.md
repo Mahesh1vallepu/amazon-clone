@@ -13,5 +13,5 @@ This is a simple Amazon web page clone created using HTML and CSS.
 
 ## How to Run
 1. Clone the repository:  
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/Mahesh1vallepu/amazon-clone.git
 2. Open `index.html` in your browser.
